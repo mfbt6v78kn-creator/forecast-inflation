@@ -1,7 +1,8 @@
 ---
 question_id: inflation-nov-2026 
 author: lizz
-topic: макроэкономика, инфляция, ставки opens: 2026-11-03 
+topic: макроэкономика, инфляция, ставки 
+opens: 2026-11-03 
 resolve_by: 2026-12-11 
 horizon: Н2 
 date_set_by: 
